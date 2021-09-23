@@ -1,0 +1,2 @@
+- name: Helm Publisher
+  uses: stefanprodan/helm-gh-pages@v1.4.1
